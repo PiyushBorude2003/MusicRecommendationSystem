@@ -23,14 +23,14 @@ The Spotify Music Recommendation System utilizes a hybrid approach to provide so
 - numpy
 - datetime
 - streamlit
-- [contentbasedrecommendation](https://link-to-content-based-recommendation-repo.com) (Replace with the actual link to your content-based recommendation module)
+- [contentbasedrecommendation](https://github.com/PiyushBorude2003/MusicRecommendationSystem) (Replace with the actual link to your content-based recommendation module)
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Mohshaikh23/Spotify-Music-Recommendation-System.git
+git clone https://github.com/PiyushBorude2003/MusicRecommendationSystem.git
    
 cd Spotify-Music-Recommendation-System
 ```
